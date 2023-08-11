@@ -1,7 +1,8 @@
-#include  <Stdio.h>
+#include<Stdio.h>
 /**
  * main - A program that uses puts function
- * Return: 0
+ *
+ * Return: 0 (success)
  */
 int main(void)
 {
