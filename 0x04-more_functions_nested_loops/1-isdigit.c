@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isupper -prog checks for uppercase charater
- * @c: variable text
- * Return: always 0.
+ * _isdigit -function checks for a digit (0 through 9)
+ * @c: inter to be checked
+ * Return: 1 if c is a digit 0 otherwise
  */
 int _isdigit(int c)
 {
