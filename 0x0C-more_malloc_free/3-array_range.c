@@ -18,3 +18,4 @@ int *array_range(int min, int max)
 
 	if (a == NULL)
 		return (NULL);
+
